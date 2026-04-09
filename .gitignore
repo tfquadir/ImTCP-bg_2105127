@@ -1,0 +1,28 @@
+# ns-3 build artifacts
+build/
+cmake-cache/
+CMakeFiles/
+*.o
+*.obj
+*.so
+*.a
+*.out
+*.exe
+*.gch
+*.pch
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Editor
+.vscode/
+
+ns-3.39/build/
+ns-3.39/cmake-cache/
+ns-3.39/CMakeFiles/
+ns-3.39/*.log
+ns-3.39/**/*.so
+ns-3.39/**/*.gch
+ns-3.39/**/*.o
